@@ -1,0 +1,3 @@
+/home/diegosol/G4Projects/LXe_build/CMakeFiles/LXe.dir
+/home/diegosol/G4Projects/LXe_build/CMakeFiles/edit_cache.dir
+/home/diegosol/G4Projects/LXe_build/CMakeFiles/rebuild_cache.dir
